@@ -4,4 +4,6 @@ This project was created to improve the existing modules of the website of the t
 This project will be able to be transferred and used by foreign clients, which will help this company to move to the international level, where in the future it is expected to replenish the package of services, where, in turn, tours to more popular countries for tourism may appear.
 In this project, you can improve the design in the future and add additional updated information. Also, for the full functionality of the site, you will need to add a BackEnd. Together with the bottom part of the site, it will be possible to accept applications from potential customers, receive requests for certain tours and reserve hotels for a certain period.
 As a result, this project has the potential for the company - BEST HOLIDAYS TOUR, which may lead to the expansion of the company abroad.
-In this project, the design was made in the likeness of this resource
+In this project, the design was made in the likeness of this resource https://www.youtube.com/watch?v=TalusE29iqg&t=133s
+
+Link ot the website: 
